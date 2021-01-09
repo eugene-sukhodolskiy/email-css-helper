@@ -1,0 +1,17 @@
+.email{
+	width: 800px;
+	margin: auto;
+	margin-top: 50px;
+	background-color: #fefefe;
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+.email .header{
+	width: 100%;
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	color: #008888;
+}

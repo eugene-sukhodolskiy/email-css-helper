@@ -1,0 +1,18 @@
+{
+    "name": "Email CSS Helper",
+    "ver": "1.0",
+    "author": "E.Sukhodolskiy",
+    "tags": [
+        "script",
+        "php",
+        "email"
+    ],
+    "type": "script",
+    "main_lang": "php",
+    "status": "open",
+    "project_color": "pink",
+    "git_url": "https://github.com/eugene-sukhodolskiy/email-css-helper",
+    "release_url": null,
+    "favicon": null,
+    "description": "Script for helping html/css email templates"
+}
